@@ -15,12 +15,8 @@
     ],
     "repositories":[
         {
-            "type": "package",
-            "package": {
-                "version": "dev-standard/stable",
-                "name": "ckeditor/ckeditor-releases",
-                "source": {"url": "https://github.com/ckeditor/ckeditor-releases.git","type": "git","reference": "standard/stable"}
-            }
+        "type": "git",
+        "url": "https://github.com/ckeditor/ckeditor-releases"
         }
     ],
     "suggest": {
