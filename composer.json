@@ -26,7 +26,7 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
         "phpunit/phpunit": "3.7.*",
-        "ckeditor/ckeditor-releases": "dev-standart/stable"
+        "ckeditor/ckeditor-releases": "dev-full/4.3.x"
     },
     "autoload": {
         "psr-0": {
