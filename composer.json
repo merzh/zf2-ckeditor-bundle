@@ -13,7 +13,16 @@
             "role": "Developer"
         }
     ],
-    
+    "repositories":[
+        {
+            "type": "package",
+            "package": {
+                "version": "dev-standard/stable",
+                "name": "ckeditor/ckeditor-releases",
+                "source": {"url": "https://github.com/ckeditor/ckeditor-releases.git","type": "git","reference": "standard/stable"}
+            }
+        }
+    ],
     "suggest": {
         "neilime/zf2-assets-bundle": "Bundling & caching CKEditor assets"
     },
